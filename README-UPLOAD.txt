@@ -1,7 +1,19 @@
-# Trendora LitRPG site
+TRENDORA GAMING WEBSITE
+=======================
 
-Upload `index.html` to the repository root and upload the `articles` folder with `litrpg-books-guide.html` inside it.
+Files:
+- index.html: complete responsive website
+- robots.txt: search-engine crawler instructions
+- sitemap.xml: sitemap for the homepage
 
-The homepage links to the LitRPG guide. The article uses the Amazon category link supplied by the site owner. Confirm that the link is relevant to books and that the Amazon Associates account is active before promotion.
+PUBLISH WITHOUT TERMINAL:
+1. Open https://github.com/alex123compt-cloud/Trendera
+2. Choose Add file > Upload files.
+3. Extract this ZIP on your computer first.
+4. Drag index.html, robots.txt and sitemap.xml into the upload area.
+5. Choose Commit changes.
 
-GitHub Pages must be enabled in repository Settings → Pages, with deployment from the `main` branch and `/ (root)`.
+The site is designed for the existing GitHub Pages address:
+https://alex123compt-cloud.github.io/Trendera/
+
+It embeds the YouTube Short previously provided and links to the channel.
